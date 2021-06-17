@@ -13,7 +13,7 @@
 
 ### The project
 
-- The aim of this project was to create an interactive drumkit where the user could either press the corresponding keys on their keyboard or click on the
+- The aim of this project was to create an interactive drum kit where the user could either press the corresponding keys on their keyboard or click on the
 buttons manually to play the relevent drum sounds.
 
 ### Screenshot
@@ -134,8 +134,6 @@ function buttonAnimation (pressedKey){
 
 }
 ```
-
-
 
 ### Continued development
 
